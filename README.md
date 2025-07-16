@@ -10,11 +10,13 @@
 <h3 align="left">My working experience</h3>
 
 - Data analytics intern at Canadian Solar, a leading global provider of solar power solutions.
-  - Streamlined data processes using **SQL** and **Python**, automating **ETL pipelines** and creating **Power BI** dashboards, significantly improving data accuracy and workflow efficiency.
+  - Streamlined data processes using **SQL** and **Python**, automating **ETL process** and creating **Power BI** dashboards, significantly improving data accuracy and workflow efficiency.
   -  Collaborated with teams to develop an analytical tool for identifying and resolving solar performance anomalies using historical data and clear visualizations.
 - Marketing Analyst at Aurum Borealis, a top-tier brand marketing firm specializing in expanding international businesses into the American market
   - Executed **competitive analyses** and **SWOT assessments**, providing insights to inform brand positioning and uncover market opportunities.
   - Developed **data-driven presentations with Excel visuals**, effectively communicating insights to stakeholders and shaping marketing strategies.
+- Sales Data Analyst at Kinaxis, a global leader in end-to-end supply chain management software company.
+-    Currently exploring automation, data modeling, and cross-functional analytics in a real-world supply chain environment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
